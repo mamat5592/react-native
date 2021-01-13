@@ -5,13 +5,12 @@ import {
   View,
   Text,
   StatusBar,
-  Modal
 } from 'react-native';
 import {connect} from 'react-redux';
 
 import {decode} from 'html-entities';
-import Question from './components/question';
-import Answers from './components/answers';
+import Question from './question';
+import Answers from './answers';
 
 class App extends Component {
   constructor(props){
