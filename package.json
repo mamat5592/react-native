@@ -15,7 +15,8 @@
     "react-native": "0.63.4",
     "react-redux": "^7.2.2",
     "redux": "^4.0.5",
-    "redux-logger": "^3.0.6"
+    "redux-logger": "^3.0.6",
+    "simple-base-converter": "^1.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
